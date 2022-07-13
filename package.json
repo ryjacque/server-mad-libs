@@ -1,0 +1,24 @@
+{
+  "name": "server-mad-libs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ryjacque/server-mad-libs.git"
+  },
+  "author": "Ryan Collins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryjacque/server-mad-libs/issues"
+  },
+  "homepage": "https://github.com/ryjacque/server-mad-libs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
